@@ -10,7 +10,7 @@ Create an Arithmetic class with separate methods for the following operations:
 
 In the main() method, create an object of the Arithmetic class and call its methods. Get the input values from the user and display the results of all five arithmetic operations.*/
 
-package Package1;
+package Package1;  
 
 import java.util.Scanner;
 
