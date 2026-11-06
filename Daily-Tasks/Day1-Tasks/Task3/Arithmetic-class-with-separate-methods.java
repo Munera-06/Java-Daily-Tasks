@@ -43,7 +43,7 @@ class Arithmetic
 
 }
 
-public class Day2_Task2 {
+public class Arithmetic-class-with-separate-methods {
 
 	public static void main(String[] args) {
 		Arithmetic ac=new Arithmetic();
