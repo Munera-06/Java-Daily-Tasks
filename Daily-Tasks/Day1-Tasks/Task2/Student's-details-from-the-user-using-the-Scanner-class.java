@@ -14,7 +14,7 @@ After receiving all the inputs, display each detail on the console.*/
 package Package1;
 import java.util.Scanner;
 
-public class Day2_Task1 {
+public class Student's-details-from-the-user-using-the-Scanner-class {
 
 	public static void main(String[] args) {
 		Scanner ac=new Scanner(System.in);
