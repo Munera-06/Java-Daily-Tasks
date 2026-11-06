@@ -4,7 +4,7 @@ Initialize a with 20 and b with 10. Swap their values using arithmetic operation
 
 package Package1;
 
-public class Day2_Task3 {
+public class Swap-their-values-using-arithmetic-operations {
 
 	public static void main(String[] args) {
 		int a=20;
