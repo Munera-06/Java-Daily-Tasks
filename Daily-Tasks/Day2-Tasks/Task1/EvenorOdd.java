@@ -4,7 +4,7 @@
 package Package1;
 import java.util.Scanner;
 
-public class Check-Whether-a-Number-Is-Even-or-Odd {
+public class EvenorOdd {
 
 	public static void main(String[] args) {
 		Scanner ac= new Scanner(System.in);
