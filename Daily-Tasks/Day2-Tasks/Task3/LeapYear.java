@@ -4,7 +4,7 @@
 package Package1;
 import java.util.Scanner;
 
-public class Check-Whether-a-Year-Is-a-Leap-Year {
+public class LeapYear {
 
 	public static void main(String[] args) {
 		Scanner ac= new Scanner(System.in);
