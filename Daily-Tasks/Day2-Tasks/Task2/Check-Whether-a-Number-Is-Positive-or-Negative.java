@@ -5,7 +5,7 @@ package Package1;
 
 import java.util.Scanner;
 
-public class Day3_Task2 {
+public class Check-Whether-a-Number-Is-Positive-or-Negative {
 
 	public static void main(String[] args) {
 		Scanner ac= new Scanner(System.in);
