@@ -9,7 +9,7 @@ package Package1;
 
 import java.util.Scanner;
 
-public class Day3_Task5 {
+public class GreatestNumbers {
 
 	public static void main(String[] args) {
 		Scanner ac= new Scanner(System.in);
