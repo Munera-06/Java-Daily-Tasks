@@ -12,7 +12,7 @@ Display the applicable tax rate, annual income, and calculated tax amount.*/
 package Package1;
 import java.util.Scanner;
 
-public class Day3_Task6 {
+public class IncomeTaxCalculator {
 
 	public static void main(String[] args) {
 		Scanner sc =new Scanner(System.in);
