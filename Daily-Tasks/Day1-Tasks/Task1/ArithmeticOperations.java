@@ -13,7 +13,7 @@ Modulus (Remainder)*/
 
 package Package1;
 
-public class Perform-Arithmetic-Operations{
+public class ArithmeticOperations{
 
 	public static void main(String[] args) {
 		int a=30;
