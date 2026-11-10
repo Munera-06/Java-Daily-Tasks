@@ -6,7 +6,7 @@ Initialize the variable i with 1, check the condition i <= 30, and increment the
 
 package Package1;
 
-public class Day5_Task1 {
+public class PrintNumbersUsingForLoop {
 
 	public static void main(String[] args){
 		for(int i=1; i<=100; i++) //i=1 1<=30 i=2 i<=30 
