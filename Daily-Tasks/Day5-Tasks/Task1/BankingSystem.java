@@ -19,7 +19,7 @@ package Package1;
 
 import java.util.Scanner;
 
-public class Day4_Task1 {
+public class BankingSystem {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to State Bank of India");
