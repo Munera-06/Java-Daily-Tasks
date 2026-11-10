@@ -10,7 +10,7 @@ Get the user's age as input and display their age and the applicable ticket pric
 package Package1;
 import java.util.Scanner;
 
-public class Day3_Task7 {
+public class MovieTicketPriceCalculator {
 
 	public static void main(String[] args) {
 			
