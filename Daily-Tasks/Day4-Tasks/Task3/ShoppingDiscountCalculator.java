@@ -11,7 +11,7 @@ Display the purchased amount, discount percentage, discount amount, and final am
 
 package Package1;
 import java.util.Scanner;
-public class Day3_Task9 {
+public class ShoppingDiscountCalculator {
 
 	public static void main(String[] args) {
 		Scanner bc = new Scanner(System.in);
