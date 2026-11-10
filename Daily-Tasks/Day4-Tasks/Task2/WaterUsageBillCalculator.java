@@ -12,7 +12,7 @@ Display the water usage, applicable rate per litre, charge amount, and final bil
 package Package1;
 import java.util.Scanner;
 
-public class Day3_Task8 {
+public class WaterUsageBillCalculator {
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
