@@ -6,7 +6,7 @@ Initialize a variable number with 5 and a variable sum with 0. Use a for loop to
 
 package Package1;
 
-public class Day5_Task3 {
+public class SumofNaturalNumbers {
 
 	public static void main(String[] args) {
 		int number=5;
