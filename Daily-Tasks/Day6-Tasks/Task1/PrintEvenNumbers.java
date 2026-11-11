@@ -6,7 +6,7 @@ Initialize the variable i with 0, check the condition i <= 50, and increment the
 
 package Package1;
 
-public class Day5_Task4 {
+public class PrintEvenNumbers {
 
 	public static void main(String[] args) {
 		for(int i=0; i<=50; i+=2) //
