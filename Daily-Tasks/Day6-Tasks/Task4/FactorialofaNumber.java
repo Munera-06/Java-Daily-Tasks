@@ -6,7 +6,7 @@ Initialize the variable number with 5 and the variable factorial with 1. Use a f
 
 package Package1;
 
-public class Day5_Task7 {
+public class FactorialofaNumber {
 
 	public static void main(String[] args) {
 		int number=5;
