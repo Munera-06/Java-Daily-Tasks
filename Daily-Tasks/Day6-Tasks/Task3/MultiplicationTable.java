@@ -6,7 +6,7 @@ Initialize the variable number with 5 and the counter variable i with 1. Use a d
 
 package Package1;
 
-public class Day5_Task6 {
+public class MultiplicationTable {
 
 	public static void main(String[] args) {
 		int number=5;
