@@ -1,7 +1,7 @@
 package Package1;
 import java.util.Scanner;
 
-public class Day6_Task3 {
+public class StarTrianglePattern2 {
 
 	public static void main(String[] args) {
 		Scanner ac=new Scanner(System.in);
