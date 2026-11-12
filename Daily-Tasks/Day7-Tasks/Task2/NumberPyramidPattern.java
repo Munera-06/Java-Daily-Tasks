@@ -8,7 +8,7 @@ For each row, decrease the number of spaces by 1 and increase the number of prin
 
 package Package1;
 import java.util.Scanner;
-public class Day6_Task1 {
+public class NumberPyramidPattern {
 
 	public static void main(String[] args) {
 		Scanner ac=new Scanner(System.in);
