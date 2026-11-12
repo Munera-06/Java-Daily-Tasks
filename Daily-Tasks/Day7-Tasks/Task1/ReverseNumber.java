@@ -8,7 +8,7 @@ Finally, display the original number and its reversed number.*/
 
 package Package1;
 
-public class Day5_Task8 {
+public class ReverseNumber {
 
 	public static void main(String[] args) {
 		  int n=123;
