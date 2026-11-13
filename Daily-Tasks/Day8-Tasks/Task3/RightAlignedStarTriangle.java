@@ -9,7 +9,7 @@ Start with one star in the first row and increase the number of stars by 1 in ea
 package Package1;
 import java.util.Scanner;
 
-public class Day6_Task5 {
+public class RightAlignedStarTriangle {
 
 	public static void main(String[] args) {
 		Scanner ac=new Scanner(System.in);
