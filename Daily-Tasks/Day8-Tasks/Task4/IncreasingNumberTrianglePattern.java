@@ -5,7 +5,7 @@ Write a Java program to print an increasing number triangle pattern based on the
 package Package1;
 import java.util.Scanner;
 
-public class Day6_Task6 {
+public class IncreasingNumberTrianglePattern {
 
 	public static void main(String[] args) {
 		Scanner ac=new Scanner(System.in);
