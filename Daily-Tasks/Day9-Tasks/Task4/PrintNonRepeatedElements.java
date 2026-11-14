@@ -4,7 +4,7 @@ Write a Java program to find and print the elements that appear only once in an 
 
 package Package1;
 
-public class Day8_Task12 {
+public class PrintNonRepeatedElements {
 
 	public static void main(String[] args) {
 		int a[]= {1,2,3,1,2,3,2,5};
