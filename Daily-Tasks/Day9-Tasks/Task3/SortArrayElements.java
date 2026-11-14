@@ -4,7 +4,7 @@ Write a Java program to sort the elements of an array in ascending order using n
 
 package Package1;
 
-public class Day8 {
+public class SortArrayElements {
 
 	public static void main(String[] args) {
 		int temp=0;
