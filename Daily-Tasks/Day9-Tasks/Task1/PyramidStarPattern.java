@@ -4,7 +4,7 @@ Write a Java program to print a pyramid star pattern using nested for loops. Pri
 
 package Package1;
 
-public class Day6 {
+public class PyramidStarPattern {
 
 	public static void main(String[] args) {
 		int line=3;
