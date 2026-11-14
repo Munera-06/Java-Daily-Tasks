@@ -5,7 +5,7 @@ Write a Java program to print an inverted pyramid star pattern based on the numb
 package Package1;
 import java.util.Scanner;
 
-public class Day6_Task7 {
+public class InvertedPyramidStarPattern {
 
 	public static void main(String[] args) {
 		Scanner ac =new Scanner(System.in);
